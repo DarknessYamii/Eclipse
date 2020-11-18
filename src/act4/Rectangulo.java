@@ -27,6 +27,7 @@ public class Rectangulo {
 		y3 = sc.nextInt();
 		this.x = x3;
 		this.y = y3;	
+//		this.x = x4;
 	}
 	
 	public void Punto4(int x4,int y4) {
